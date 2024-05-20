@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on any projects that I can assist with and learn from
 - 📫 How to reach me: gitaulen@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 Lennyium/Lennyium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

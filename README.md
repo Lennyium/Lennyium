@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lenny Gitau</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
 
-- 🌱 I’m currently learning **Python for Data Engineers**
+- 🌱 I’m currently learning **Data Science: Machine Learning Specialist** on Codecademy
 
 - 👯 I’m looking to collaborate on **any projects that I can assist with and learn from**
 

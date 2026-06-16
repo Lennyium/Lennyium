@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lenny Gitau</h1>
-<h3 align="center">An Aspiring AI/ML Engineer from Nairobi, Kenya</h3>
+<h3 align="center">A Data Analyst and Aspiring Data Scientist from Nairobi, Kenya</h3>
 
 - 🌱 I’m currently learning **Data Science: Machine Learning Specialist**
 
